@@ -10,7 +10,7 @@ namespace Problems
             string[] mum = input.Split();
             int sis = mum.Length;
             Console.WriteLine(ln.ToString(), ",",sis.ToString() , " ", input);
-
+            Console.ReadLine();
         }
         static void Main(string[] args)
         {
